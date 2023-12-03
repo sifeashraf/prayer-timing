@@ -1,0 +1,31 @@
+*{
+  font-family: 'Cairo', sans-serif;
+  box-sizing: border-box;
+}
+body {
+  background:linear-gradient(to left , #2b4591, #d4902e)  
+}
+
+.line {
+  height: 8px;
+  width: 100%;
+  background: #4d51cf
+}
+.row {
+direction: rtl;
+
+}
+.header {
+color: white;
+  /* background:linear-gradient(to left , #2b4591, #d4902e)   */
+}
+.header h1 {
+  font-size: 60px;
+}
+hr{
+  height: 4px ;
+}
+
+.col {
+  box-shadow: 0px 10px 5px rgb(0, 0, 0 / 30%);
+}
